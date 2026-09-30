@@ -1,34 +1,34 @@
-# \# Amith Kumar Das Orko
+\# Amith Kumar Das Orko
 
-# 
 
-# \- Interested in software development, backend engineering, and distributed systems
 
-# \- Interested in machine learning and artificial intelligence
+\- Interested in software development, backend engineering, and distributed systems
 
-# \- Enjoy working with Java, Kotlin, Python, SQL, Docker, and cloud technologies
+\- Interested in machine learning and artificial intelligence
 
-# 
+\- Enjoy working with Java, Kotlin, Python, SQL, Docker, and cloud technologies
 
-# \## Technical Background
 
-# 
 
-# I am currently pursuing an M.S. in Applied Computer Science at Grand Valley State University. I previously earned a B.S. in Software Engineering from Carleton University.
+\## Technical Background
 
-# 
 
-# My programming experience includes Java, Kotlin, Python, SQL, and Bash. I have also worked with Spring Boot, Hibernate, PostgreSQL, MySQL, MongoDB, Docker, Kubernetes, Jenkins, and Git.
 
-# 
+I am currently pursuing an M.S. in Applied Computer Science at Grand Valley State University. I previously earned a B.S. in Software Engineering from Carleton University.
 
-# I have experience developing REST APIs, working with databases, writing automated tests using JUnit and Mockito, and deploying containerized applications.
 
-# 
 
-# \## Favorite Meme
+My programming experience includes Java, Kotlin, Python, SQL, and Bash. I have also worked with Spring Boot, Hibernate, PostgreSQL, MySQL, MongoDB, Docker, Kubernetes, Jenkins, and Git.
 
-# 
 
-# \[Tung Tung Tung Sahur](https://imgur.com/gallery/tung-tung-tung-tung-sahur-8TZO9H8)
+
+I have experience developing REST APIs, working with databases, writing automated tests using JUnit and Mockito, and deploying containerized applications.
+
+
+
+\## Favorite Meme
+
+
+
+\[Tung Tung Tung Sahur](https://imgur.com/gallery/tung-tung-tung-tung-sahur-8TZO9H8)
 
